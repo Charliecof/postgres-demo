@@ -1,5 +1,5 @@
 # Start with a base image containing Java runtime
-FROM adoptopenjdk:openjdk11
+FROM openjdk:11
 
 # Add Maintainer Info
 LABEL maintainer="kllosorozco@gmail.com"
@@ -11,7 +11,7 @@ VOLUME /tmp
 EXPOSE 8139
 
 # The application's jar file
-ARG JAR_FILE=target/postgres-demo-0.0.1-SNAPSHOT.jar
+ARG JAR_FILE=target/postgres-demo-0.0.1.jar
 
 # Add the application's jar to the container
 ADD ${JAR_FILE} postgres-demo.jar
