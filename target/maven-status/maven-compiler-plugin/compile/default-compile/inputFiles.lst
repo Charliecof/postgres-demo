@@ -1,0 +1,9 @@
+/home/xxbigeyexx/Documentos/postgres-demo/src/main/java/com/example/postgresdemo/controller/QuestionController.java
+/home/xxbigeyexx/Documentos/postgres-demo/src/main/java/com/example/postgresdemo/model/Answer.java
+/home/xxbigeyexx/Documentos/postgres-demo/src/main/java/com/example/postgresdemo/controller/AnswerController.java
+/home/xxbigeyexx/Documentos/postgres-demo/src/main/java/com/example/postgresdemo/repository/AnswerRepository.java
+/home/xxbigeyexx/Documentos/postgres-demo/src/main/java/com/example/postgresdemo/exception/ResourceNotFoundException.java
+/home/xxbigeyexx/Documentos/postgres-demo/src/main/java/com/example/postgresdemo/repository/QuestionRepository.java
+/home/xxbigeyexx/Documentos/postgres-demo/src/main/java/com/example/postgresdemo/model/AuditModel.java
+/home/xxbigeyexx/Documentos/postgres-demo/src/main/java/com/example/postgresdemo/model/Question.java
+/home/xxbigeyexx/Documentos/postgres-demo/src/main/java/com/example/postgresdemo/PostgresDemoApplication.java
